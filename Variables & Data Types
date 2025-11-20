@@ -1,16 +1,2 @@
-Create variables of all basic data types in Python
-Convert a string "123" into an integer
-Convert an integer 10 into a float
-Find the data type of values: "Python", 12.5, True, [1,2,3]
-Create two variables x = 5 and y = "10"
-Swap the values of two variables using Python
-Store your full name in a variable and print its length
-Create a float value and convert it to an integer
-Create a string "Python" and print the first and last character
-Create a list of 5 numbers and print the largest and smallest values
-Using a dictionary, store name = "Pratik", age = 23, city = "Mumbai" and print each value
-Check if the variable x = 10 is an integer using isinstance()
-Create a string "Python Programming" and convert it to uppercase
-Take a float number and round it to 2 decimal places
-Change a list to a tuple.
+
 
